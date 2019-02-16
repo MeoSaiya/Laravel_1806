@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Admin",
+    "\\app\\Http\\Controllers\\Fontend",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\frontend",
+    "\\resources\\views\\frontend\\profile",
+    "\\routes"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\Fontend\\ProfileController.php",
+  "PreviewInSolutionExplorer": false
+}
